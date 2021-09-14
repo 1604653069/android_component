@@ -1,0 +1,10 @@
+include ':module-work'
+include ':module-user'
+include ':module-sign'
+include ':module-msg'
+include ':module-home'
+include ':module-main'
+include ':library-res'
+include ':library-base'
+include ':app'
+rootProject.name = "android_com"
